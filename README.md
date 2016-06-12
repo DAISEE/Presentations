@@ -1,2 +1,2 @@
 # Presentation
-Registre des diaporamas de présentation de DAISEE (élaborée & présentée dans le cadre de [#CompteurConnect] (http://bit.ly/compteurconnect-DAISEE-doc))
+Répertoire des diaporamas de présentation de DAISEE (utilisés en début et fin de chaque sprint).
