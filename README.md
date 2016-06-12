@@ -1,2 +1,2 @@
 # Presentation
-Slide presentations of the DAISEE projet
+Slide presentations of the DAISEE project.
