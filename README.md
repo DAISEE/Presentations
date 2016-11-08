@@ -3,4 +3,4 @@ Répertoire des différents diaporamas de présentation de DAISEE (utilisés en 
 - [CompteurConnect (version 0.1)] (http://bit.ly/compteurconnect-DAISEE)
 - [LeBlockFest (version 0.2)] (http://bit.ly/leblockfest-DAISEE)
 - [BlockSprint (version 0.3)] (http://bit.ly/blocksprint-DAISEE)
-- [Symposium Blockchain d'IMAL](http://bit.ly/IMAL2016_DAISEE)
+- [Symposium Blockchain](http://bit.ly/IMAL2016_DAISEE)
