@@ -1,4 +1,4 @@
-# Organization
+# Application to YC - Summer 2017
 
 ## Organization name
 
@@ -6,15 +6,15 @@ DAISEE ('Decentralized Autonomous Interconnected Systems for Energy Efficiency')
 
 ## Organization url
 
-http://daisee.org
+daisee.org
 
-## If you have a demo, what's the url? For non-software, demo can be a video.  (Please don't password protect it; just use an obscure url.)
+## If you have a demo, what's the url? For non-software, demo can be a video
 
 https://youtu.be/0HY-8BucZd8
 
 ## Describe your organization in 50 characters or less.
 
-Community-owned energy microgrids research initiative
+Community-owned energy microgrids research initiative.
 
 ## What will your organization do? 
 
