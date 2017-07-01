@@ -8,9 +8,9 @@
 - [CompteurConnect (May 2016)](http://bit.ly/compteurconnect-DAISEE)
 
 ## Conferences
-- [Biennale de Design](https://github.com/DAISEE/Presentations/blob/master/BiennalEnergy.md)
+- [Biennale de Design (Avril 2017)](https://github.com/DAISEE/Presentations/blob/master/BiennalEnergy.md)
 
 ## Candidatures
-- [YC - Batch 2017](https://github.com/DAISEE/Presentations/blob/master/YCAppliation2017.md)
+- [Y Combinator (Batch 2017)](https://github.com/DAISEE/Presentations/blob/master/YCAppliation2017.md)
 
 
