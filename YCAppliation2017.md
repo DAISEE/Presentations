@@ -1,9 +1,9 @@
 # Organization
 
-## Organization name:
+## Organization name
 DAISEE ('Decentralized Autonomous Interconnected Systems for Energy Efficiency')
 
-## Organization url, if any: 
+## Organization url, if any
 http://daisee.org
 
 ## If you have a demo, what's the url? For non-software, demo can be a video.  (Please don't password protect it; just use an obscure url.)
@@ -23,20 +23,20 @@ Now: Lyon, France.
 Base: where it's relevant. San Francisco appears to be one of the most relevant place given the renewable energy context and energy transition path, as well as the technological, entrepreneurial and experimental culture of the region. 
 
 # Founders
-Samira Rabaaoui
-Nicolas Loubet
-Xavier Lavayssière
+* Samira Rabaaoui
+* Nicolas Loubet
+* Xavier Lavayssière
 
 Actually, DAISEE is a common (like free/open source projects). Beyound founders, we consider: 
-Core team members:
-Founders + Clement Epie: technology strategist and Louis Villard: sofware programming
+* Core team members:
+* Founders + Clement Epie: technology strategist and Louis Villard: sofware programming
 
 Active contributors:
-Paul Flipo: harware design/architecture
-Sylvain Pastor: hardware manufacturing
-Aude Omerin: open design and business
-Alizee Gerard: transition/systemic design
-Timothée Gosselin: open source business
+* Paul Flipo: harware design/architecture
+* Sylvain Pastor: hardware manufacturing
+* Aude Omerin: open design and business
+* Alizee Gerard: transition/systemic design
+* Timothée Gosselin: open source business
 
 ## YouTube video introducing the founders. (Video Guidelines.)
 https://youtu.be/LiOLHcE-vWg
@@ -114,4 +114,3 @@ First, we think that YC is the best partner of the world to co-produce an ambiti
 
 ## How did you hear about Y Combinator? 
 We know YC from long time (~ 2008-2009). But to be honest, it's Nicolas Toper (alumni from YC) that encourage us to candidate to the next batch as a non-profit 
-
