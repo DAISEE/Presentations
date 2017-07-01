@@ -8,7 +8,7 @@
 - [CompteurConnect (May 2016)](http://bit.ly/compteurconnect-DAISEE)
 
 ## Conferences
-- [Rencontre Biennale Energie](https://github.com/DAISEE/Presentations/blob/master/BiennalEnergy.md)
+- [Biennale de Design Saint-Etienne](https://github.com/DAISEE/Presentations/blob/master/BiennalEnergy.md)
 
 ## Candidatures
 - [YC - Batch 2017](https://github.com/DAISEE/Presentations/blob/master/YCAppliation2017.md)
