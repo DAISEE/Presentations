@@ -10,7 +10,7 @@
 ## Conferences
 - [Biennale de Design (Avril 2017)](https://github.com/DAISEE/Presentations/blob/master/BiennalEnergy.md)
 
-## Candidatures
-- [Y Combinator (Batch 2017)](https://github.com/DAISEE/Presentations/blob/master/YCAppliation2017.md)
+## Applications
+- [Y Combinator (Batch 2017)](https://github.com/DAISEE/Presentations/blob/master/YCsummer2017.md)
 
 
