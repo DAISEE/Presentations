@@ -2,8 +2,8 @@
 
 ## Diaporamas
 - [Summary for beginners (July 2017)](https://frama.link/DAISEE-summary)
-- [Séminaire IGNES (June 2017](https://frama.link/DAISEE-IGNES)
-- [Forum TERATEC (June 2017](https://frama.link/DAISEE-TERATEC2017)
+- [Séminaire IGNES (June 2017)](https://frama.link/DAISEE-IGNES)
+- [Forum TERATEC (June 2017)](https://frama.link/DAISEE-TERATEC2017)
 - [Event Horizon (Feb. 2017)](https://frama.link/DAISEE-EventHorizon)
 - [BlockchainFFF (Nov. 2016)](http://bit.ly/IMAL2016_DAISEE) 
 - [LeBlockFest (June 2016)](http://bit.ly/leblockfest-DAISEE)
