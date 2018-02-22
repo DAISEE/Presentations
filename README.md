@@ -1,7 +1,8 @@
 # Presentations
 
 ## Diaporamas
-- [Summary for beginners (July 2017)](https://frama.link/DAISEE-summary)
+- [General Presentation (now)](https://frama.link/DAISEE_2017)
+- [Summary for beginners (now)](https://frama.link/DAISEE-summary)
 - [Séminaire IGNES (June 2017)](https://frama.link/DAISEE-IGNES)
 - [Forum TERATEC (June 2017)](https://frama.link/DAISEE-TERATEC2017)
 - [Event Horizon (Feb. 2017)](https://frama.link/DAISEE-EventHorizon)
