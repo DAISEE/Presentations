@@ -1,6 +1,6 @@
 # Quoi ?
 
-Un non-conférence, en collaboration avec le Pôle Recherche de la Cité du Design dans le cadre des journées "Villes et Territoires en transition" de la Biennale Internationale de Design de Saint-Etienne. Cette rencontre se déroulera le Samedi 8 Mars 2017 de 14.00 à 18.00 dans une des salles jouxtant l'Auditorium de la Cité du Design.
+Un non-conférence, en collaboration avec le Pôle Recherche de la Cité du Design dans le cadre des journées "Villes et Territoires en transition" de la Biennale Internationale de Design de Saint-Etienne. Cette rencontre a eu lieu le Samedi 8 Mars 2017 de 14.00 à 18.00 dans une des salles jouxtant l'Auditorium de la Cité du Design de Saint-Etienne.
 
 # Les règles du jeu sont les suivantes
 
@@ -45,5 +45,3 @@ Pour plus de facilité nous vous donnons rendez-vous à l'entrée de la Biennale
     16:45/17:00 - 18:00 > Temps d'échange sur les complémentarités à développer
     18:00-20:00 > Apéro avec les réseaux de transition de Saint-Etienne (et au-delà)
 
-
-Cette rencontre s'inscrit dans la programme de la Biennale Internationale de Design de Saint-Etiene qui est un événement public. Dans ce cadre, les propos ont pour vocation à être captées et communiqués.
