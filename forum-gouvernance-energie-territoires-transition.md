@@ -1,4 +1,4 @@
-# (Non) Conférence sur la gouvernance de l'énergie dans les territoires en transition
+# Biennale de Design de Saint-Etienne - (Non) Conférence sur la gouvernance de l'énergie dans les territoires en transition
 
 ## À propos
 
