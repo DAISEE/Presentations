@@ -1,8 +1,7 @@
 # Presentations
 
 ## Diaporamas
-- [General Presentation (Feb. 2018)](https://frama.link/DAISEE_2017)
-- [Summary for beginners (Dec 2017)](https://frama.link/DAISEE-summary)
+- [Summary for beginners (March 2017)](https://frama.link/DAISEE-summary)
 - [Séminaire IGNES (June 2017)](https://frama.link/DAISEE-IGNES)
 - [Event Horizon (Feb. 2017)](https://frama.link/DAISEE-EventHorizon)
 - [BlockchainFFF (Nov. 2016)](http://bit.ly/IMAL2016_DAISEE) 
