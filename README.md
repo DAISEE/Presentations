@@ -1,6 +1,6 @@
 # Summarys
 
-## Slidesohws
+## Slidecks
 - [Summary for beginners (April 2018)](https://frama.link/DAISEE-summary)
 - [Event Horizon (April 2018](https://frama.link/DAISEE_EventHorizon2018)
 - [Séminaire IGNES (June 2017)](https://frama.link/DAISEE-IGNES)
