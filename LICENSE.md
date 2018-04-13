@@ -1,2 +1,4 @@
 #License
-Cette œuvre - le diaporama - est mise à disposition selon les termes de la [Licence Creative Commons BY-NC-SA 4.0 Int.](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+The slideshows are protected by Creative Commons ([BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)) & [Peer Production](http://wiki.p2pfoundation.net/Peer_Production_License) licenses.
+
